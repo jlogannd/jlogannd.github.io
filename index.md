@@ -5,3 +5,9 @@ Greetings! I am a Business Administration professor at United Tribes Technical C
 * <jlogan@uttc.edu>
 * [LinkedIn](https://www.linkedin.com/in/jessica-logan-nd)
 * GitHub
+
+## Educational Background
+
+## Experience
+
+## Exciting Things About Me
